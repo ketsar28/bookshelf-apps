@@ -27,12 +27,14 @@ p {
 
 /* darkMode */
 body.light {
-  background-color: #cac9c9;
+  background-color: #4a6f40;
 }
 body.light label {
   background-color: #7f7e7e;
 }
-
+body.light .my-icon h5 {
+  color: #fff;
+}
 body.light .ball {
   background-color: #37e54e;
 }
